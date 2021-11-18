@@ -1,0 +1,22 @@
+{
+  "name": "videoedit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "videoshow": "^0.1.12",
+    "ass-stringify": "^0.1.1",
+    "fluent-ffmpeg": "^2.0.0",
+    "fw": "^0.1.2",
+    "lil-uuid": "^0.1.0",
+    "lodash.merge": "^4.6.2",
+    "yargs": "^3.5.4"
+  }
+}
